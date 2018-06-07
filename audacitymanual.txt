@@ -1,0 +1,9 @@
+Sounds + Picture (Audacity 2.1.3)
+
+A-law, lil' endian
+
+Stereo Mix sound on new track
+
+Mix and render to a new track
+
+Save uncompressed files-> RAW + A-law
